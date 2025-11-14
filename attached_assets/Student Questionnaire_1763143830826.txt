@@ -1,0 +1,68 @@
+How do you know this professor?
+(Course name, semester, duration of interaction+ relationship depth)
+
+Have you been in a council?
+Which council have you been a part of?
+What was your post in the council?
+
+What key skills or strengths do you want highlighted in your LOR?
+(E.g., leadership, teamwork, technical skills, communication, creativity)
+
+Describe a challenge you faced in academics or a project, and how you overcame it.
+
+What achievements or contributions do you want mentioned that are NOT on your resume?
+(Small but meaningful things: mentoring juniors, club contributions, volunteering, etc.)
+
+How would you describe your working/learning style?
+(E.g., analytical, detail-oriented, team-first, fast learner, resilient)
+
+What is the purpose of this LOR?
+(MS/MBA/Internship/Scholarship; target country; university type)
+
+Is there any specific point or story about you that the professor knows and should be included?
+(This helps add a “personal touch”)
+
+Other details
+(external details if students want to add for extra)
+
+take these details from resume(ignore if not applicable/mentioned){
+A. Academic & Coursework
+
+Which courses of this professor did you take, and what grades did you receive?
+
+Did you assist the professor in any research/TA work? (If yes, describe)
+
+B. Projects & Internships (Deeper Detail)
+
+Describe a project where you took initiative or leadership.
+
+Describe a project where you worked in a team. What role did you play?
+
+What tools/technologies are you strongest in?
+
+C. Soft Skills & Personal Traits
+
+What makes you stand out from your peers?
+
+How would your classmates/team members describe you?
+
+What’s one personality trait that contributes most to your performance?
+
+D. Achievements
+
+Any academic achievements, awards, or recognitions?
+
+Any extra-curricular or co-curricular achievements?
+
+E. Work Experience
+
+Briefly describe your internship(s) and one key impact from each.
+
+F. Additional Inputs
+
+Provide any links that highlight your work (GitHub, portfolio, LinkedIn, papers).
+
+Any weaknesses you want to address in the LOR (optional)?
+
+Anything else we should know to make your LOR stronger?
+}
